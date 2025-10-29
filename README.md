@@ -13,23 +13,9 @@ Smart Glass for the Visually Impaired	Real-time object detection + audio feedbac
 SIESCOPE	Ear disease detection using hybrid dataset with YOLOv8 & custom augmentations.	PyTorch, YOLOv8, OpenCV
 VOC 2024 Website	Official event website with Laravel + React frontend integration.	Laravel, React, Tailwind
 Photox	Multilingual photobooth booking app with sleek UI & multi-form system.	Next.js, Tailwind, Laravel API
-🏆 Highlights
-
-🧠 KRAI 2025 Machine Learning Division — UNS Robotics Team (ABU Robocon)
-
-🌊 Autonomous Boat Controller (Bengawan Internship): Achieved 95% servo reliability
-
-🎨 Head of Media, BEM SV UNS — Standardized organizational branding visuals
 
 📈 GitHub Insights
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luthfan&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luthfan&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luthfan&theme=react-dark&hide_border=true" width="90%"/> </p>
-🌱 Currently Exploring
-
-⚡ Edge AI optimization (TensorRT, TFLite)
-
-🧭 Robotics-vision pipeline deployment
-
-🎨 UI/UX for intelligent systems
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Luthfan&label=Profile%20views&color=0e75b6&style=flat" alt="Luthfan" /> </p> <p align="center"> <b>💬 Let’s collaborate!</b><br/> <i>I’m open to discussing AI, full-stack development, or robotics integration ideas.</i> </p>
 <p align="center"> <img src="https://github.com/Luthfan/Luthfan/assets/footer_wave.svg" width="100%" /> </p>
