@@ -37,8 +37,6 @@
   </tr>
 </table>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
