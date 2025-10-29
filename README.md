@@ -1,45 +1,94 @@
-<!-- Banner / Hero Section --> <p align="center"> <img src="https://github.com/Luthfan/Luthfan/assets/banner.gif" alt="Banner" width="100%" /> </p> <h1 align="center">👋 Hey there, I'm <b>Muhammad Fadhli Nur Luthfan</b></h1> <h3 align="center">Full-Stack & AI Engineer | Computer Vision | IoT & Robotics Enthusiast</h3> <p align="center"> <a href="https://linkedin.com/in/muhammadfadhlinurluthfan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:muhammadfadhlinurluthfan@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/fadhlinurluthfan"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> </p>
-🧠 About Me
+<div align="center">
 
-💡 Passionate about building AI-driven solutions, modern web systems, and intelligent IoT devices that bridge the digital and physical world.
-🚀 Currently focused on Edge AI, robotics integration, and real-time computer vision.
-🎯 Motto: “Build with logic, design with empathy, innovate with purpose.”
+# 👨‍💻 Muhammad Fadhli Nur Luthfan
 
-⚙️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,php,laravel,nextjs,react,vue,nuxt,flask,tailwind,opencv,pytorch,tensorflow,arduino,raspberrypi,docker,git,linux" /> </p>
-🔥 Featured Projects
-🚀 Project	🧩 Description	🛠️ Tech
-Smart Glass for the Visually Impaired	Real-time object detection + audio feedback using YOLOv8, ESP32-CAM, GPS & DFPlayer Mini.	Python, Edge Impulse, Flask, ESP32
-SIESCOPE	Ear disease detection using hybrid dataset with YOLOv8 & custom augmentations.	PyTorch, YOLOv8, OpenCV
-VOC 2024 Website	Official event website with Laravel + React frontend integration.	Laravel, React, Tailwind
-Photox	Multilingual photobooth booking app with sleek UI & multi-form system.	Next.js, Tailwind, Laravel API
+### Full-Stack Developer • AI Engineer • IoT Enthusiast
 
+*Building intelligent systems that bridge the digital and physical world*
 
-📈 GitHub Insights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfadhlinurluthfan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfadhlinurluthfan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fadhlinurluthfan)
 
-<!-- Profile Stats Section -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=radical" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=luthfan1234&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=react-dark&hide_border=true" width="90%"/>
-</p>
+</div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luthfan1234&label=Profile%20views&color=0e75b6&style=flat" alt="luthfan1234" />
-</p>
+---
 
-<!-- Collaboration Section -->
-<p align="center">
-  <b>💬 Let’s collaborate!</b><br/>
-  <i>I’m open to discussing AI, full-stack development, or robotics integration ideas.</i>
-</p>
+## 🚀 About Me
 
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luthfan1234/luthfan1234/main/assets/footer_wave.svg" width="100%" />
-</p>
+```typescript
+const fadhli = {
+    code: ["Python", "JavaScript", "PHP", "TypeScript"],
+    focus: ["Edge AI", "Computer Vision", "Full-Stack Development"],
+    currentlyWorking: "Smart IoT Solutions with AI Integration",
+    interests: ["Robotics", "Real-time CV", "Web3"],
+    motto: "Build with logic, design with empathy, innovate with purpose 🎯"
+};
+```
+
+💡 **Passionate about** crafting AI-driven solutions that solve real-world problems  
+🔬 **Currently exploring** Edge AI deployment and embedded vision systems  
+🌱 **Learning** Advanced robotics integration & MLOps pipelines  
+⚡ **Fun fact:** I believe the best code is the code you don't have to write!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Magic ✨
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Power ⚡
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### AI & Computer Vision 🤖
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### IoT & Hardware 🔧
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### DevOps & Tools 🛠️
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Smart Glass for Visually Impaired
+Real-time object detection with audio feedback system
+- **Tech:** YOLOv8, ESP32-CAM, Edge Impulse
+- **Features:** GPS navigation, voice alerts, obstacle detection
+- **Impact:** Assistive technology for visually impaired users
+
+</td>
+<td width="50
