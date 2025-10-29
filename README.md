@@ -104,44 +104,6 @@ const fadhli = {
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=luthfan1234&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-💬 **Open to discussing:**
-- AI & Machine Learning projects
-- Full-stack development opportunities
-- IoT & robotics integration
-- Open source contributions
-
-📫 **Reach me at:** [muhammadfadhlinurluthfan@gmail.com](mailto:muhammadfadhlinurluthfan@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Watch My Contribution Graph Get Eaten!
-
-![Snake animation](https://raw.githubusercontent.com/luthfan1234/luthfan1234/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
