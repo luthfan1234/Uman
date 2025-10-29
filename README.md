@@ -51,11 +51,6 @@
 
 <div align="center">
 
-### 💻 Commits & Contributions
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=tokyonight&hide_border=true" />
-
 ### 📊 Contributions Calendar
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true)
