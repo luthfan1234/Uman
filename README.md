@@ -67,10 +67,4 @@
 
 📧 [m.lutfan99@gmail.com](mailto:m.lutfan99@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/muhmdfadhli)
 
----
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**⭐️ From [luthfan1234](https://github.com/luthfan1234)**
-
 </div>
