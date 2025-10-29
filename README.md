@@ -27,12 +27,3 @@
 
 </div>
 
-<div align="center">
-
-### 💬 Let's Connect!
-
-**Open for collaboration on AI, Full-Stack Development & IoT projects**
-
-📧 [m.lutfan99@gmail.com](mailto:m.lutfan99@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/muhmdfadhli)
-
-</div>
