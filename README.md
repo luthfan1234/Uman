@@ -43,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,php,ts,go,html,css,tailwind,react,nextjs,vue,nuxt,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git,linux,postman&perline=12" />
 </p>
 
----
-
 ## 📈 Activity
 
 <div align="center">
@@ -55,7 +53,6 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
 
 </div>
-
 
 <div align="center">
 
