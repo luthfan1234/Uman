@@ -28,13 +28,6 @@ const fadhli = {
 };
 ```
 
-💡 **Passionate about** crafting AI-driven solutions that solve real-world problems  
-🔬 **Currently exploring** Edge AI deployment and embedded vision systems  
-🌱 **Learning** Advanced robotics integration & MLOps pipelines  
-⚡ **Fun fact:** I believe the best code is the code you don't have to write!
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
