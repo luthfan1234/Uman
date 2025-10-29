@@ -2,6 +2,10 @@
 
 # 👨‍💻 Muhammad Fadhli Nur Luthfan
 
+### Full-Stack Developer • AI Engineer • IoT Enthusiast
+
+*Building intelligent systems that bridge the digital and physical world*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhmdfadhli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.lutfan99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luthfan.zip/)
@@ -14,59 +18,67 @@
 
 ## 🚀 About Me
 
-```typescript
-const fadhli = {
-    code: ["Python", "JavaScript", "PHP", "TypeScript"],
-    focus: ["Edge AI", "Computer Vision", "Full-Stack Development"],
-    currentlyWorking: "Smart IoT Solutions with AI Integration",
-    interests: ["Robotics", "Real-time CV", "Web3"],
-    motto: "Build with logic, design with empathy, innovate with purpose 🎯"
-};
-```
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+💡 Passionate about crafting **AI-driven solutions** that solve real-world problems  
+🔬 Currently exploring **Edge AI deployment** and embedded vision systems  
+🌱 Learning **Advanced robotics integration** & MLOps pipelines  
+⚡ Fun fact: I believe the best code is the code you don't have to write!
 
 ---
 
-### 📈 Contribution Activity
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,ts,go,html,css,tailwind,react,nextjs,vue,nuxt,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git,linux,postman&perline=12" />
+</p>
+
+---
+
+## 📊 GitHub Profile
+
+<table align="center">
+  <tr>
+    <td><b>📅 Joined GitHub</b></td>
+    <td>Check profile for exact date</td>
+  </tr>
+  <tr>
+    <td><b>👥 Followed by</b></td>
+    <td><img src="https://img.shields.io/github/followers/luthfan1234?style=social" /></td>
+  </tr>
+  <tr>
+    <td><b>🔨 Contributed to</b></td>
+    <td>Multiple repositories</td>
+  </tr>
+  <tr>
+    <td><b>📦 Repositories</b></td>
+    <td><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluthfan1234" /></td>
+  </tr>
+  <tr>
+    <td><b>⭐ Total Stars</b></td>
+    <td>Earned across repositories</td>
+  </tr>
+  <tr>
+    <td><b>📝 Most Used Language</b></td>
+    <td>Python, JavaScript, PHP</td>
+  </tr>
+</table>
+
+---
+
+## 📈 Activity
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
-</div>
+### 💻 Commits & Contributions
 
-### 💻 Most Used Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  
+### 📊 Contributions Calendar
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true)
+
+### 🗂️ Most Used Languages
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
 
@@ -74,10 +86,73 @@ const fadhli = {
 
 ---
 
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Smart Glass for Visually Impaired
+Real-time object detection with audio feedback
+- **Stack:** YOLOv8, ESP32-CAM, Edge Impulse
+- **Features:** GPS, voice alerts, obstacle detection
+
+</td>
+<td width="50%">
+
+### 🩺 SIESCOPE - Ear Disease Detection
+AI-powered medical diagnosis system
+- **Stack:** PyTorch, YOLOv8, OpenCV
+- **Features:** Hybrid dataset, custom augmentation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎪 VOC 2024 Official Website
+Event management platform
+- **Stack:** Laravel, React, Tailwind CSS
+- **Scale:** Thousands of visitors
+
+</td>
+<td width="50%">
+
+### 📸 Photox - Multilingual Photobooth
+Smart booking system with sleek UI
+- **Stack:** Next.js, Tailwind, Laravel API
+- **Features:** Multi-language support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Recent Activity
+
+<details>
+<summary><b>📌 Show Recent Commits</b></summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
 <div align="center">
 
-**⭐️ From [luthfan1234](https://github.com/luthfan1234) | Last Updated: October 2025**
+### 💬 Let's Connect!
+
+**Open for collaboration on AI, Full-Stack Development & IoT projects**
+
+📧 [m.lutfan99@gmail.com](mailto:m.lutfan99@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/muhmdfadhli)
+
+---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⭐️ From [luthfan1234](https://github.com/luthfan1234)**
 
 </div>
