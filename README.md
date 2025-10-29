@@ -13,7 +13,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,ts,react,nextjs,vue,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git,linux,postman&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,ts,react,nextjs,vue,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git&perline=12" />
 </p>
 
 ## Activity
