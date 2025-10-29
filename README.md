@@ -10,10 +10,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Profile
-
 <table align="center">
   <tr>
     <td><b>📅 Joined GitHub</b></td>
