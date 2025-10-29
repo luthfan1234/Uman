@@ -35,58 +35,6 @@ const fadhli = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=luthfan1234&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-### ⚡ Productivity Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luthfan1234&theme=tokyonight" width="90%" />
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luthfan1234&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luthfan1234&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luthfan1234&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -130,64 +78,41 @@ const fadhli = {
 
 ---
 
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Smart Glass for Visually Impaired
-Real-time object detection with audio feedback system
-- **Tech:** YOLOv8, ESP32-CAM, Edge Impulse
-- **Features:** GPS navigation, voice alerts, obstacle detection
-- **Impact:** Assistive technology for visually impaired users
-
-</td>
-<td width="50%">
-
-### 🩺 SIESCOPE - Ear Disease Detection
-AI-powered medical diagnosis using computer vision
-- **Tech:** PyTorch, YOLOv8, OpenCV
-- **Features:** Hybrid dataset, custom augmentation
-- **Accuracy:** High precision disease classification
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎪 VOC 2024 Official Website
-Event management platform with modern stack
-- **Tech:** Laravel, React, Tailwind CSS
-- **Features:** Dynamic content, responsive design
-- **Scale:** Handled thousands of visitors
-
-</td>
-<td width="50%">
-
-### 📸 Photox - Multilingual Photobooth
-Smart booking system with beautiful UI
-- **Tech:** Next.js, Tailwind, Laravel API
-- **Features:** Multi-language, multi-form system
-- **UX:** Sleek interface with seamless booking flow
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Coding Metrics
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@YOUR_USER_ID)
-<!--END_SECTION:waka-->
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+### 📈 Contribution Activity
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=luthfan1234&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+
 
 ## 🤝 Let's Connect & Collaborate!
 
