@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Muhammad Fadhli Nur Luthfan
+# Muhammad Fadhli Nur Luthfan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhmdfadhli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.lutfan99@gmail.com)
@@ -10,13 +10,13 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,ts,react,nextjs,vue,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git,linux,postman&perline=12" />
 </p>
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
