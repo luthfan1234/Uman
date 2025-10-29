@@ -51,73 +51,13 @@
 
 <div align="center">
 
-### 📊 Contributions Calendar
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true)
-
-### 🗂️ Most Used Languages
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Smart Glass for Visually Impaired
-Real-time object detection with audio feedback
-- **Stack:** YOLOv8, ESP32-CAM, Edge Impulse
-- **Features:** GPS, voice alerts, obstacle detection
-
-</td>
-<td width="50%">
-
-### 🩺 SIESCOPE - Ear Disease Detection
-AI-powered medical diagnosis system
-- **Stack:** PyTorch, YOLOv8, OpenCV
-- **Features:** Hybrid dataset, custom augmentation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎪 VOC 2024 Official Website
-Event management platform
-- **Stack:** Laravel, React, Tailwind CSS
-- **Scale:** Thousands of visitors
-
-</td>
-<td width="50%">
-
-### 📸 Photox - Multilingual Photobooth
-Smart booking system with sleek UI
-- **Stack:** Next.js, Tailwind, Laravel API
-- **Features:** Multi-language support
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Recent Activity
-
-<details>
-<summary><b>📌 Show Recent Commits</b></summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
 
 <div align="center">
 
