@@ -10,33 +10,6 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td><b>📅 Joined GitHub</b></td>
-    <td>Check profile for exact date</td>
-  </tr>
-  <tr>
-    <td><b>👥 Followed by</b></td>
-    <td><img src="https://img.shields.io/github/followers/luthfan1234?style=social" /></td>
-  </tr>
-  <tr>
-    <td><b>🔨 Contributed to</b></td>
-    <td>Multiple repositories</td>
-  </tr>
-  <tr>
-    <td><b>📦 Repositories</b></td>
-    <td><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluthfan1234" /></td>
-  </tr>
-  <tr>
-    <td><b>⭐ Total Stars</b></td>
-    <td>Earned across repositories</td>
-  </tr>
-  <tr>
-    <td><b>📝 Most Used Language</b></td>
-    <td>Python, JavaScript, PHP</td>
-  </tr>
-</table>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
