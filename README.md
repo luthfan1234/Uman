@@ -58,14 +58,3 @@ const fadhli = {
 
 </div>
 
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-**Open for collaboration on AI, Full-Stack Development & IoT projects**
-
-📧 **Email:** m.lutfan99@gmail.com
-
-</div>
