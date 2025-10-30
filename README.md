@@ -68,8 +68,4 @@ const fadhli = {
 
 📧 **Email:** m.lutfan99@gmail.com
 
----
-
-⭐️ **From [luthfan1234](https://github.com/luthfan1234)**
-
 </div>
