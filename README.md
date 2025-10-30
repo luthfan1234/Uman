@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Fadhli Nur Luthfan
+# 👨‍💻 Muhammad Fadhli Nur Luthfan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhmdfadhli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.lutfan99@gmail.com)
@@ -10,29 +10,57 @@
 
 </div>
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,ts,react,nextjs,vue,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git&perline=12" />
 </p>
 
-## Activity
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luthfan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan1234&theme=tokyonight&hide_border=true" />
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/luthfan1234/luthfan1234/output/snake.svg" alt="Snake animation" />
 
-###
 </div>
 
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Open for collaboration on AI, Full-Stack Development & IoT projects**
+
+📧 **Email:** m.lutfan99@gmail.com
+
+---
+
+⭐️ **From [luthfan1234](https://github.com/luthfan1234)**
+
+</div>
