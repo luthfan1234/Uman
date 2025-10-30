@@ -19,8 +19,17 @@
 ## Activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/luthfan1234/luthfan1234/output/snake.svg" alt="Snake animation" />
 
