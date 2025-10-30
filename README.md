@@ -25,5 +25,8 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
 
+<img src="https://raw.githubusercontent.com/luthfan1234/luthfan1234/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
