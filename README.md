@@ -19,9 +19,6 @@
 ## Activity
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfan1234&theme=tokyo-night&hide_border=true&area=true)
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfan1234&theme=tokyonight" />
 
